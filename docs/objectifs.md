@@ -6,11 +6,11 @@ title: Objectifs du projet
 
 # Introduction
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.
+L'objectif de ce cahier des charges est de définir les spécifications nécessaires à la fabrication et à la conception d'un char à voile Radiocommandé ainsi que la répartition des tâches du groupe. Ce char à voile devra être capable de se déplacer grâce au vent sur le sable. 
 
 ## Contexte du Projet
 
-Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat.
+ 
 
 ## Objectifs du Projet
 
@@ -18,8 +18,70 @@ Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. 
 
 # Existant
 
-Praesent blandit adipiscing velit. Suspendisse potenti. Donec mattis, pede vel pharetra blandit, magna ligula faucibus eros, id euismod lacus dolor eget odio.
+
 
 # Cahier des Charges
 
-Nam dui ligula, fringilla a, euismod sodales, sollicitudin vel, wisi. Morbi auctor lorem non justo. Nam lacus libero, pretium at, lobortis vitae, ultricies et, tellus.
+1. Spécifications techniques : 
+
+Dimensions et poids :  
+
+ 
+
+Longueur :  centimètres 
+
+Largeur :  centimètres  
+
+Hauteur :  centimètres 
+
+Poids total : maximum de ? kilogrammes pour faciliter le transport et la maniabilité. 
+
+Système de propulsion : 
+
+Le char à voile devra être équipé d'un système de prise du vent grâce à une voile accroché sur mat. 
+
+La voile pourra être commandé grâce à la télécommande qui sera un téléphone. La direction pourra l’être aussi avec un système sur la roue avant fonctionnant grâce à un servomoteur. 
+
+Construction et matériaux :
+
+Utilisation de matériaux légers mais résistants pour la construction du châssis du char à voile, tels que l'aluminium pour les axes du châssis, le pour l’assemblage des axes et le Pla pour les roues. 
+
+Les voiles viennent d’une toile de planche a voile remis par le club de de voile d’Amiens  
+
+Autonomie : 
+
+La batterie devra fournir une autonomie minimale de 30 minutes de fonctionnement continu. 
+
+2. Fonctionnalités supplémentaires : 
+
+ 
+
+Capteurs : 
+
+ 
+
+Intégration de capteurs pour permettre de savoir l’axe le plus optimal de la voile par rapport au vent. 
+
+Design : 
+
+ 
+
+Le char à voile devra avoir un design attrayant et ergonomique. 
+
+3. Normes de sécurité : 
+
+ 
+
+Le char à voile devra être conforme aux normes de sécurité applicables en matière de produits électroniques et de jouets. 
+
+ 
+
+4. Livrables attendus : 
+
+ 
+
+Un prototype fonctionnel du char à voile conforme aux spécifications mentionnées. 
+
+Un rapport détaillé sur la conception, la fabrication et les tests du prototype. 
+
+Documentation technique comprenant des instructions d'utilisation et d'entretien. 
