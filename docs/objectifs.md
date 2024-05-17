@@ -32,6 +32,7 @@ Le char à voile de Samuel Tranchet en Epoxy et Aluminium:
 C'est celui dont nous nous sommes le plus inspiré car la documentation est très complète.
 
 Le char à voile de Tommaso Veronesi en Inox et Aluminium:
+
 ![Photo CAV2](https://i.ibb.co/gMKhmTg/existant-cav2.jpg)
 
 Nos premier prototype était surtout baé sur celui ci.
