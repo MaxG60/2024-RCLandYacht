@@ -16,13 +16,18 @@ L'objectif de ce cahier des charges est de définir les spécifications nécessa
 
 ## Objectifs du Projet
 
-Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede.
+Nous nous sommes lancé comme objectifque:
+    - que le char à voile soit fonctionnelle
+    - qu'il fonctionne sans casser
+    - qu'il puisse rouler sur le sable
+    - qu'il soit contrôlable par wifi
 
 # Existant
 Ici nous vous présenteront les projets déjà existant pour vous permettre d'avoir un point de comparaison.
-Si vous voulez plus d'information nous vous renvoyons vers nos [sources](images/illustration.png).
+Si vous voulez plus d'information nous vous renvoyons vers nos sources.
 
-
+Le char à voile de Samuel Tranchet en Epoxy et aluminium:
+![Photo CAV1](https://i.ibb.co/GWvbFFk/existant-cav1.jpg)
 
 
 # Cahier des Charges
