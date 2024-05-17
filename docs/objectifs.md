@@ -26,9 +26,15 @@ Nous nous sommes lancé comme objectifque:
 Ici nous vous présenteront les projets déjà existant pour vous permettre d'avoir un point de comparaison.
 Si vous voulez plus d'information nous vous renvoyons vers nos sources.
 
-Le char à voile de Samuel Tranchet en Epoxy et aluminium:
+Le char à voile de Samuel Tranchet en Epoxy et Aluminium:
 ![Photo CAV1](https://i.ibb.co/GWvbFFk/existant-cav1.jpg)
 
+C'est celui dont nous nous sommes le plus inspiré car la documentation est très complète.
+
+Le char à voile de Tommaso Veronesi en Inox et Aluminium:
+![Photo CAV2](https://i.ibb.co/gMKhmTg/existant-cav2.jpg)
+
+Nos premier prototype était surtout baé sur celui ci.
 
 # Cahier des Charges
 
