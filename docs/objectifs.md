@@ -35,7 +35,7 @@ Le char à voile de Tommaso Veronesi en Inox et Aluminium:
 
 ![Photo CAV2](https://i.ibb.co/gMKhmTg/existant-cav2.jpg)
 
-Nos premier prototype était surtout baé sur celui ci.
+Nos premier prototype était surtout basé sur celui ci.
 
 # Cahier des Charges
 
