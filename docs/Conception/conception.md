@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: technicals
 nav_order: 5
 title: Conception et prototypage
 ---
