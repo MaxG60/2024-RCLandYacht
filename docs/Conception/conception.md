@@ -22,6 +22,7 @@ title: Conception et prototypage
     </div>
 </model-viewer>
 
+
 # Coffrage 
 Le coffrage est l'élément qui relie la fixation de la roue avant au châssis du char à voile. Il comprend également l'encastrement pour le servomoteur de direction, le support pour le mât et des renforts pour assurer sa rigidité.
 
@@ -49,9 +50,10 @@ Cette pièce, située à l'intérieur du coffrage, renforce et rigidifie celui-c
 ## Tube alu : 
 Il s'agit d'un tube en aluminium de 10mm de diamètre.
 Nous avons opté pour des tubes en aluminium en raison de leur résistance aux contraintes imposées par le char. 
-Ces tubes s'étendent de l'avant du coffrage jusqu'au châssis, puis du châssis à la fixation des roues principales. Ils servent également de mât et de bôme pour le char.
+Ces tubes s'étendent de l'avant du coffrage jusqu'au châssis, du châssis à la fixation des roues principales. Ils servent également de mât et de bôme pour le char.
 
 # Châssis 
+Le châssis est l'élément principal du char, il comprend 
 
 ## Châssis
 
