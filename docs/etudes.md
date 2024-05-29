@@ -27,3 +27,14 @@ Nous allons donc vous présenter nos améliorations suivantes:
 
 2) La direction
 
+    Après avoir épluché différent projet qui ont été partagé par internet notre solution préférée étaient d'avoir un servo-moteur tirant la roue avant à gauche ou à droite.
+   
+    Au début nous avions prototypé une direction basé sur un guidon de vélo, après certains test et voyant que le guidon se tordait et n'était pas forcément assez solide pour bien diriger, alors nous sommes partis d'une autre inspiration: un essieu de moto.
+
+    Cela nous a permit de faire une pièce bien plus résistante qui maintenant permet a notre char de pouvoir aller ou bon lui semble.
+
+3) La Baûme
+
+    La Baûme d'un char à voile est la barre verticale au mât qui permet en la tordant de tendre plus ou moins la voile afin de faire accélérer le char. 
+    
+    Pour une version réduite la puissance nécessaire à tordre la baûme et la résistance de la pièce qui doit la maintenir demande un certains budget, nous avons donc décider de créer un système qui permets judte de tendre la voile afin d'arriver au même résultat, pour cela notre baume sert juste de poids à l'intèrieur de notre voile et un fil est attaché à celle ci pour la tendre.
